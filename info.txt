@@ -1,0 +1,3 @@
+sudo cmake -DVESPA_BUILD_PV_PLUGIN=ON -DQt5_DIR=/opt/Qt5.14.2/5.14.2/gcc_64/lib/cmake/Qt5 -DCMAKE_BUILD_TYPE=Debug ../vespa_src/vespa/
+
+
