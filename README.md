@@ -11,3 +11,4 @@ exist.
 - Cgal most recent version is also needed.
 """
 This git folder contain also several other application that were developped that allow to manipulate and edit vtk meshes.
+---
